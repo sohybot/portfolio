@@ -3,4 +3,4 @@
 기술스펙
 - AI, ML, DL
 라이브데모 
-- 포트폴리오사이트:file:///C:/Users/amy56/Downloads/Index.html#projects
+- 포트폴리오사이트: file:///C:/Users/amy56/Downloads/Index.html#projects
