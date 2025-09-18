@@ -4,4 +4,4 @@
 - AI, ML, DL
 라이브데모 
 - 포트폴리오사이트:  https://sohybot.github.io/portfolio/
-- QR : 
+- QR : https://sohybot.github.io/portfolio/QR.html
